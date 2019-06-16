@@ -1,0 +1,32 @@
+title: Jessie Youn
+pitch: "Hi"
+cc: 
+email: jessieyoun90@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  This is Jessie's site.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: JessiYoon
+github_username:  JessiYoon
+facebook_username: JessiYoon
+instagram_username: JessiYoon
+
+# Build settings
+markdown: kramdown
+theme: academic
+plugins:
+  - jekyll-feed
+
+
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
